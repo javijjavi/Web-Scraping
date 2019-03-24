@@ -1,2 +1,4 @@
-# Web-Scraping
-Este es un proyecto en el cual vamos a explicar que es y como utilizar nuestro propio web scraper.
+# WEB SCRAPPER
+## ¿QUE ES WEB SCRAPPING?
+## VENTAJAS DE UTILIZAR WEB SCRAPPING
+## WEB SCRAPPING CON PYTHON
