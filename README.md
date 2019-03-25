@@ -19,7 +19,8 @@ Esta son algunas de las herramientas de web scraping que podemos encontrar en la
 - [hunter](https://hunter.io)
 
 ## WEB SCRAPPING CON PYTHON
-Ahora vamosa crear nuestro propio web scraper diseñado a medida para cumplir nuestra función.
-Nosostros queremos extraer toda la información de la siguiente web:
-Esta web esta enfocada a publicar IP, hots, etc con malware asociado a ellas.
-Nosotros lo que haremos es extraer toda la informacion de estas luego procesar esta informacion en un txt para hacer iptables para un firewall y tanbien procesaremos esta informacion para un SQL para poder ver esta informacion mas comodamente.
+Ahora vamos a crear nuestro propio web scraper diseñado a medida para cumplir nuestra función.
+Nosostros queremos extraer toda la información de la siguiente web: [https://ransomwaretracker.abuse.ch/tracker/](https://ransomwaretracker.abuse.ch/tracker/)
+Esta web esta enfocada a publicar IP, hots, etc con malware asociado a ellas, como podemos ver hay una cantidad de direcciones IP y hots bastante grande haciendo que si una persona por si sola tubiera que extraer toda esta información seria una tarea largisima y muy tediosa.
+Nosotros vamos a simplificar esta tarea para ello vamos a extraer toda la información de esta web luego vamos a procesar esta información en un txt para hacer iptables para un firewall y también procesaremos esta información para un SQL para poder ver esta informacion mas comodamente en un html y saber siempre que ip tables tiene nuestro firewall activas.
+
