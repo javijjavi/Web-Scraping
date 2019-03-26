@@ -24,3 +24,11 @@ Nosostros queremos extraer toda la información de la siguiente web: [https://ra
 Esta web esta enfocada a publicar IP, hots, etc con malware asociado a ellas, como podemos ver hay una cantidad de direcciones IP y hots bastante grande haciendo que si una persona por si sola tubiera que extraer toda esta información seria una tarea largisima y muy tediosa.        
 Nosotros vamos a simplificar esta tarea para ello vamos a extraer toda la información de esta web luego vamos a procesar esta información en un txt para hacer iptables para un firewall y también procesaremos esta información para un SQL para poder ver esta informacion mas comodamente en un html y saber siempre que ip tables tiene nuestro firewall activas.
 
+## LIBRERIAS QUE VAMOS A UTILIZAR
+Para realizar este proyecto en Python3 vamos necesitar dos librerias:
+***
+- request           (Libreria para descargar el codigo HTML)
+- Beautiful Soup    (Libreira para parsear el codigo HTML)
+
+## DESCARGAR EL CODIGO HTML
+Para descargar el codigo HTML de una pagina web tendr
