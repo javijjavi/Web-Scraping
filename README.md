@@ -33,9 +33,9 @@ Para realizar este proyecto en Python3 vamos necesitar dos librerias:
 - re                (Libreria para utilizar para poder utilizar expresiones regulares)
 
 ## DESCARGAR EL CODIGO HTML
-Para descargar el codigo HTML de una pagina web tendremos que utilizar la libreria request.  
-`import requests`
-Con este codigo descargaremos la librería.  
-Ahora toca descargar el codigo HTML para eso utilizaremos el codigo `response = requests.get(url)`.
-Y ya tendremos nuestro codigo HTML descargado.
+Para descargar el codigo HTML de una pagina web tendremos que utilizar la libreria request, para esto preimero la tendremos que importar esto es bastante sencillo solo tendremos que poner el siguiente codigo `import requests`.    
+Ahora toca descargar el codigo HTML para eso utilizaremos el codigo `response = requests.get(url)`. Y ya tendremos nuestro codigo HTML descargado.
+
+## PARSEAR EL CODIGO HTML
+
 
