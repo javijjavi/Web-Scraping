@@ -1,0 +1,278 @@
+('Malware-> GlobeImposter', 'IP(Pais)-> 195.225.168.230 ( Italy)', 'Host-> agricom.it', 'Dominio-> WIDE-REG')
+
+(1, 'Malware-> Locky', '(n/a)', 'Host-> celebrityonline.cz', 'Dominio-> REG-INTERNET-CZ')
+
+(2, 'Malware-> Locky', 'IP(Pais)-> 217.160.0.51 ( Germany)', 'Host-> ashapeforlife.com', 'Dominio-> 1&1 Internet SE')
+
+(3, 'Malware-> Locky', 'IP(Pais)-> 5.2.88.89 ( Spain)', 'Host-> embutidosanezcar.com', 'Dominio-> Soluciones Corporativas IP, SL')
+
+(4, 'Malware-> Locky', '(n/a)', 'Host-> geeks-online.de', '(n/a)')
+
+(5, 'Malware-> Locky', 'IP(Pais)-> 95.110.225.147 ( Italy)', 'Host-> download.justowin.it', 'Dominio-> ARUBA-REG')
+
+(6, 'Malware-> Locky', 'IP(Pais)-> 91.247.37.137 ( Bulgaria)', 'Host-> 91.247.37.137', '(n/a)')
+
+(7, 'Malware-> Locky', '(n/a)', 'Host-> 87hfdredwertyfdvvlkgdrsadm.net', 'Dominio-> Eranet International Limited')
+
+(8, 'Malware-> Cerber', 'IP(Pais)-> 127.0.0.1 (n/a)', 'Host-> qfjhpgbefuhenjp7.16g9ub.top', 'Dominio-> Eranet International Limited')
+
+(9, 'Malware-> Cerber', 'IP(Pais)-> 127.0.0.1 (n/a)', 'Host-> p27dokhpz2n7nvgr.1mfdt8.top', 'Dominio-> Eranet International Limited')
+
+(10, 'Malware-> Cerber', '(n/a)', 'Host-> hjhqmbxyinislkkt.13eymq.top', 'Dominio-> Eranet International Limited')
+
+(11, 'Malware-> Cerber', '(n/a)', 'Host-> rastypasty34.top', 'Dominio-> Eranet International Limited')
+
+(12, 'Malware-> Cerber', '(n/a)', 'Host-> p27dokhpz2n7nvgr.18dawg.top', 'Dominio-> Eranet International Limited')
+
+(13, 'Malware-> Locky', 'IP(Pais)-> 213.32.67.242 ( France)', 'Host-> htocvt.org', 'Dominio-> GoDaddy.com, LLC')
+
+(14, 'Malware-> Locky', 'IP(Pais)-> 209.99.40.222 ( United States)', 'Host-> nzmalaysia.com', 'Dominio-> PDR LTD. D/B/A PUBLICDOMAINREGIS[...]')
+
+(15, 'Malware-> Locky', 'IP(Pais)-> 8.5.1.50 ( United States)', 'Host-> gages-56.com', 'Dominio-> ENOM, INC.')
+
+(16, 'Malware-> Locky', '(n/a)', 'Host-> store.elixe.net', 'Dominio-> REGIONAL NETWORK INFORMATION CEN[...]')
+
+(17, 'Malware-> Locky', '(n/a)', 'Host-> banhang123.com', 'Dominio-> GMO INTERNET, INC. DBA ONAMAE.CO[...]')
+
+(18, 'Malware-> Locky', '(n/a)', 'Host-> monbega.info', 'Dominio-> Todaynic.com, Inc.')
+
+(19, 'Malware-> Locky', 'IP(Pais)-> 185.208.164.96 ( Poland)', 'Host-> eplotery.pl', 'Dominio-> Consulting Service Sp. z o.o.')
+
+(20, 'Malware-> Locky', 'IP(Pais)-> 185.23.130.3 ( Iran)', 'Host-> aria-asp.ir', '(n/a)')
+
+(21, 'Malware-> Locky', '(n/a)', 'Host-> simba12685.de', '(n/a)')
+
+(22, 'Malware-> Locky', 'IP(Pais)-> 185.129.18.235 ( Turkey)', 'Host-> intrekmedya.com', 'Dominio-> IHS TELEKOM, INC.')
+
+(23, 'Malware-> Locky', '(n/a)', 'Host-> tivicast.org', 'Dominio-> Chengdu West Dimension Digital T[...]')
+
+(24, 'Malware-> Locky', 'IP(Pais)-> 154.210.201.115 ( United States)', 'Host-> youhaoyouduo.com', 'Dominio-> BIZCN.COM, INC.')
+
+(25, 'Malware-> Locky', '(n/a)', 'Host-> sugetipula12.hi2.ro', 'Dominio-> ICI - ROTLD')
+
+(26, 'Malware-> Locky', '(n/a)', 'Host-> file4hosti.info', 'Dominio-> Todaynic.com, Inc.')
+
+(27, 'Malware-> Locky', '(n/a)', 'Host-> yiyangart.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(28, 'Malware-> Locky', 'IP(Pais)-> 123.30.187.207 ( Vietnam)', 'Host-> trehoada.org', 'Dominio-> GMO Internet, Inc. d/b/a Onamae.[...]')
+
+(29, 'Malware-> Locky', 'IP(Pais)-> 45.193.44.107 ( Hong Kong)', 'Host-> tamsoon.net', 'Dominio-> WEST263 INTERNATIONAL LIMITED')
+
+(30, 'Malware-> Locky', '(n/a)', 'Host-> villa31.com', 'Dominio-> FASTDOMAIN, INC.')
+
+(31, 'Malware-> Locky', 'IP(Pais)-> 188.116.8.137 ( Poland)', 'Host-> wszystkodokuchni.pl', 'Dominio-> premium.pl Sp. z o.o.')
+
+(32, 'Malware-> Locky', 'IP(Pais)-> 104.24.102.247 ( United States)', 'Host-> tangmocar.com', 'Dominio-> GODADDY.COM, LLC')
+
+(33, 'Malware-> Locky', 'IP(Pais)-> 79.98.24.141 ( Lithuania)', 'Host-> viacon.lt', 'Dominio-> UAB "Interneto vizija"')
+
+(34, 'Malware-> Locky', 'IP(Pais)-> 188.210.221.57 ( Poland)', 'Host-> twardo.eu', 'Dominio-> nazwa.pl sp. z o.o.')
+
+(35, 'Malware-> Locky', 'IP(Pais)-> 195.22.26.248 ( Portugal)', 'Host-> thenumastore.com', 'Dominio-> GODADDY.COM, LLC')
+
+(36, 'Malware-> Locky', 'IP(Pais)-> 166.62.28.112 ( United States)', 'Host-> pertclinic.com', 'Dominio-> GODADDY.COM, LLC')
+
+(37, 'Malware-> Locky', '(n/a)', 'Host-> haggyowser.com', 'Dominio-> PAKNIC (PRIVATE) LIMITED')
+
+(38, 'Malware-> Locky', 'IP(Pais)-> 154.91.83.49 ( Hong Kong)', 'Host-> ryrszs.com', 'Dominio-> BEIJING INNOVATIVE LINKAGE TECHN[...]')
+
+(39, 'Malware-> Locky', 'IP(Pais)-> 166.62.125.116 ( United States)', 'Host-> maximumauction.com', 'Dominio-> GODADDY.COM, LLC')
+
+(40, 'Malware-> Locky', '(n/a)', 'Host-> vmeste-hudeem.ru', 'Dominio-> REGRU-RU')
+
+(41, 'Malware-> Locky', 'IP(Pais)-> 195.222.33.161 ( Bosnia and Herzegovina)', 'Host-> facerecognition.com.ba', '(n/a)')
+
+(42, 'Malware-> Locky', 'IP(Pais)-> 195.222.33.161 ( Bosnia and Herzegovina)', 'Host-> facerecognition.com.ba', '(n/a)')
+
+(43, 'Malware-> Locky', '(n/a)', 'Host-> gurlfanam.net', 'Dominio-> IP MIRROR PTE LTD. DBA IP MIRROR')
+
+(44, 'Malware-> Locky', 'IP(Pais)-> 66.7.208.234 ( United States)', 'Host-> nnsafety.com', 'Dominio-> PDR LTD. D/B/A PUBLICDOMAINREGIS[...]')
+
+(45, 'Malware-> Locky', 'IP(Pais)-> 47.93.120.117 ( China)', 'Host-> xa12580.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(46, 'Malware-> Locky', '(n/a)', 'Host-> tupsorva.net', 'Dominio-> KEY-SYSTEMS GMBH')
+
+(47, 'Malware-> Locky', 'IP(Pais)-> 219.94.143.27 ( Japan)', 'Host-> psouutarnow.org', 'Dominio-> Key-Systems GmbH')
+
+(48, 'Malware-> Locky', '(n/a)', 'Host-> host71.net', 'Dominio-> DOMAIN.COM, LLC')
+
+(49, 'Malware-> Locky', '(n/a)', 'Host-> oatloyd.com', 'Dominio-> PAKNIC (PRIVATE) LIMITED')
+
+(50, 'Malware-> Locky', 'IP(Pais)-> 94.73.148.170 ( Turkey)', 'Host-> mavisehirrotaract.org', 'Dominio-> Nics Telekomunikasyon Ticaret Lt[...]')
+
+(51, 'Malware-> Locky', 'IP(Pais)-> 103.104.196.34 ( Singapore)', 'Host-> lv-nexis.com', 'Dominio-> IP MIRROR PTE LTD. DBA IP MIRROR')
+
+(52, 'Malware-> Locky', 'IP(Pais)-> 62.221.208.155 ( Netherlands)', 'Host-> jimmink.nl', 'Dominio-> Webcreators Internet Services')
+
+(53, 'Malware-> Locky', 'IP(Pais)-> 163.231.4.70 ( United States)', 'Host-> caballerobustamante.com.pe', 'Dominio-> NIC .PE')
+
+(54, 'Malware-> Locky', 'IP(Pais)-> 95.211.144.68 ( Netherlands)', 'Host-> mckm11.cba.pl', 'Dominio-> Abc Hosting Ltd.')
+
+(55, 'Malware-> Locky', 'IP(Pais)-> 209.99.40.223 ( United States)', 'Host-> abercrombiesales.com', 'Dominio-> PDR LTD. D/B/A PUBLICDOMAINREGIS[...]')
+
+(56, 'Malware-> Locky', '(n/a)', 'Host-> gogeshop.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(57, 'Malware-> Locky', 'IP(Pais)-> 156.235.237.119 ( United States)', 'Host-> bestroyalart.com', 'Dominio-> WEB COMMERCE COMMUNICATIONS LIMI[...]')
+
+(58, 'Malware-> Locky', 'IP(Pais)-> 107.165.128.154 ( United States)', 'Host-> hexinjituan.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(59, 'Malware-> Locky', '(n/a)', 'Host-> anhsaodem.info', 'Dominio-> GoDaddy.com, LLC')
+
+(60, 'Malware-> Locky', '(n/a)', 'Host-> club-impact.ro', 'Dominio-> Romarg SRL')
+
+(61, 'Malware-> Locky', 'IP(Pais)-> 80.94.52.77 ( Slovakia)', 'Host-> diagnostickecentrum.sk', '(n/a)')
+
+(62, 'Malware-> Locky', 'IP(Pais)-> 203.146.140.64 ( Thailand)', 'Host-> ck.co.th', 'Dominio-> T.H.NIC Co., Ltd.')
+
+(63, 'Malware-> Locky', '(n/a)', 'Host-> budeanu.ro', 'Dominio-> ICI - ROTLD')
+
+(64, 'Malware-> Locky', 'IP(Pais)-> 185.9.51.4 ( United Kingdom)', 'Host-> bluehost.hu', '(n/a)')
+
+(65, 'Malware-> Locky', 'IP(Pais)-> 184.105.192.2 ( United States)', 'Host-> sexedsheep.net', 'Dominio-> KEY-SYSTEMS GMBH')
+
+(66, 'Malware-> Locky', 'IP(Pais)-> 74.220.199.9 ( United States)', 'Host-> americanjuniorgolfschool.com', 'Dominio-> GODADDY.COM, LLC')
+
+(67, 'Malware-> Locky', 'IP(Pais)-> 39.98.61.141 ( China)', 'Host-> net2008.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(68, 'Malware-> Locky', '(n/a)', 'Host-> enliveshow.com', 'Dominio-> ENOM, INC.')
+
+(69, 'Malware-> Locky', 'IP(Pais)-> 209.99.64.53 ( United States)', 'Host-> eipldevelopers.com', 'Dominio-> DOMAIN.COM, LLC')
+
+(70, 'Malware-> Locky', 'IP(Pais)-> 85.13.156.209 ( Germany)', 'Host-> lmprojekte.de', '(n/a)')
+
+(71, 'Malware-> Locky', 'IP(Pais)-> 205.134.253.202 ( United States)', 'Host-> webihawks.com', 'Dominio-> SILICONHOUSE.NET PVT LTD.')
+
+(72, 'Malware-> Locky', 'IP(Pais)-> 192.124.249.168 ( United States)', 'Host-> bathboating.co.uk', 'Dominio-> Paragon Internet Group Ltd t/a T[...]')
+
+(73, 'Malware-> Locky', 'IP(Pais)-> 104.151.144.184 ( United States)', 'Host-> milianjie.com', 'Dominio-> ENAME TECHNOLOGY CO., LTD.')
+
+(74, 'Malware-> Locky', 'IP(Pais)-> 85.128.216.225 ( Poland)', 'Host-> evaave12.nazwa.pl', 'Dominio-> nazwa.pl sp. z o.o.')
+
+(75, 'Malware-> Locky', 'IP(Pais)-> 116.90.60.7 ( Australia)', 'Host-> cloudrepublic.com.au', 'Dominio-> Tucows')
+
+(76, 'Malware-> Locky', 'IP(Pais)-> 119.31.234.43 ( Singapore)', 'Host-> lamurindo.com', 'Dominio-> VODIEN INTERNET SOLUTIONS PTE LT[...]')
+
+(77, 'Malware-> Locky', 'IP(Pais)-> 208.100.26.234 ( United States)', 'Host-> wrubyjtvqhxaqkh.pw', 'Dominio-> Namecheap')
+
+(78, 'Malware-> Locky', 'IP(Pais)-> 52.232.127.196 ( Netherlands)', 'Host-> scorecapture.com', 'Dominio-> EASYDNS TECHNOLOGIES, INC.')
+
+(79, 'Malware-> Locky', 'IP(Pais)-> 39.98.61.141 ( China)', 'Host-> net2008.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(80, 'Malware-> Locky', 'IP(Pais)-> 122.114.36.93 ( China)', 'Host-> goodkiddy.com', 'Dominio-> XIN NET TECHNOLOGY CORPORATION')
+
+(81, 'Malware-> Locky', 'IP(Pais)-> 68.65.122.175 ( United States)', 'Host-> inetassoc.com', 'Dominio-> ENOM, INC.')
+
+(82, 'Malware-> Locky', 'IP(Pais)-> 184.105.192.2 ( United States)', 'Host-> mendsnolle.net', 'Dominio-> PAKNIC (PRIVATE) LIMITED')
+
+(83, 'Malware-> Locky', '(n/a)', 'Host-> rondeaho.com', 'Dominio-> KEY-SYSTEMS GMBH')
+
+(84, 'Malware-> Locky', 'IP(Pais)-> 107.180.41.91 ( United States)', 'Host-> extramileteam.com', 'Dominio-> GODADDY.COM, LLC')
+
+(85, 'Malware-> Cerber', '(n/a)', 'Host-> wjtqjleommc4z46i.9ule2e.bid', 'Dominio-> Eranet International Limited')
+
+(86, 'Malware-> Locky', '(n/a)', 'Host-> lavalower.net', 'Dominio-> PAKNIC (PRIVATE) LIMITED')
+
+(87, 'Malware-> Locky', '(n/a)', 'Host-> bathecista.com', 'Dominio-> KEY-SYSTEMS GMBH')
+
+(88, 'Malware-> Cerber', '(n/a)', 'Host-> 52uo5k3t73ypjije.bar8sc.bid', 'Dominio-> Eranet International Limited')
+
+(89, 'Malware-> Locky', 'IP(Pais)-> 104.216.38.78 ( United States)', 'Host-> zheng-du.com', 'Dominio-> HICHINA ZHICHENG TECHNOLOGY LTD.')
+
+(90, 'Malware-> Locky', 'IP(Pais)-> 108.179.248.65 ( United States)', 'Host-> moqs2.neoleads.net.my', '(n/a)')
+
+(91, 'Malware-> Locky', 'IP(Pais)-> 204.11.56.46 ( Virgin Islands)', 'Host-> affordabledentaltours.com', 'Dominio-> GODADDY.COM, LLC')
+
+(92, 'Malware-> Cerber', '(n/a)', 'Host-> 52uo5k3t73ypjije.bipnnp.bid', 'Dominio-> Eranet International Limited')
+
+(93, 'Malware-> Cerber', '(n/a)', 'Host-> 52uo5k3t73ypjije.o9w43w.bid', 'Dominio-> Eranet International Limited')
+
+(94, 'Malware-> Locky', 'IP(Pais)-> 210.1.51.131 ( Thailand)', 'Host-> sapanboon.com', 'Dominio-> NAME.COM, INC.')
+
+(95, 'Malware-> Locky', 'IP(Pais)-> 185.14.57.2 ( Spain)', 'Host-> deligoods.com', 'Dominio-> HOSTING CONCEPTS B.V. D/B/A OPEN[...]')
+
+(96, 'Malware-> Locky', 'IP(Pais)-> 195.238.0.64 ( Belgium)', 'Host-> www.agridiving.net', 'Dominio-> TUCOWS DOMAINS INC.')
+
+(97, 'Malware-> Cerber', '(n/a)', 'Host-> wjtqjleommc4z46i.n8ln0w.bid', 'Dominio-> Eranet International Limited')
+
+(98, 'Malware-> Locky', 'IP(Pais)-> 213.180.141.189 ( Poland)', 'Host-> pp4_09_10_2s.republika.pl', '(n/a)')
+
+(99, 'Malware-> Locky', 'IP(Pais)-> 62.149.128.45 ( Italy)', 'Host-> www.meallservice.it', 'Dominio-> TISCALIDOMAIN-REG')
+
+(100, 'Malware-> Locky', '(n/a)', 'Host-> virmalw.name', 'Dominio-> Eranet International Limited')
+
+(101, 'Malware-> Locky', 'IP(Pais)-> 213.186.33.24 ( France)', 'Host-> www.cap114.fr', '(n/a)')
+
+(102, 'Malware-> Locky', 'IP(Pais)-> 112.140.42.29 ( Japan)', 'Host-> hacca.kitunebi.com', 'Dominio-> GMO INTERNET, INC. DBA ONAMAE.CO[...]')
+
+(103, 'Malware-> Locky', 'IP(Pais)-> 51.254.55.171 ( France)', 'Host-> 51.254.55.171', '(n/a)')
+
+(104, 'Malware-> Locky', 'IP(Pais)-> 80.150.6.138 ( Germany)', 'Host-> martin-decker.homepage.t-online.de', '(n/a)')
+
+(105, 'Malware-> Locky', '(n/a)', 'Host-> www.lechner-maria.de', '(n/a)')
+
+(106, 'Malware-> Locky', 'IP(Pais)-> 88.156.222.94 ( Poland)', 'Host-> www.bozenan.swk.vectranet.pl', 'Dominio-> OVH SAS')
+
+(107, 'Malware-> Locky', 'IP(Pais)-> 213.205.40.169 ( Italy)', 'Host-> www.portuense.it', 'Dominio-> TISCALIDOMAIN-REG')
+
+(108, 'Malware-> Cerber', '(n/a)', 'Host-> pmenboeqhyrpvomq.wrd4fo.top', 'Dominio-> Eranet International Limited')
+
+(109, 'Malware-> Locky', 'IP(Pais)-> 80.150.6.143 ( Germany)', 'Host-> architekten-gm.de', '(n/a)')
+
+(110, 'Malware-> Locky', 'IP(Pais)-> 95.211.144.65 ( Netherlands)', 'Host-> czerwinski.ciesielstwo.cba.pl', 'Dominio-> Abc Hosting Ltd.')
+
+(111, 'Malware-> Locky', 'IP(Pais)-> 199.79.62.144 ( United States)', 'Host-> arogyaforhealth.com', 'Dominio-> PDR LTD. D/B/A PUBLICDOMAINREGIS[...]')
+
+(112, 'Malware-> Locky', 'IP(Pais)-> 62.37.237.62 ( Spain)', 'Host-> www.fotosdelburgo.com', 'Dominio-> NORDNET')
+
+(113, 'Malware-> Locky', 'IP(Pais)-> 81.196.20.133 ( Romania)', 'Host-> robertstefan.home.ro', 'Dominio-> ICI - ROTLD')
+
+(114, 'Malware-> Locky', 'IP(Pais)-> 193.42.142.132 ( Russian Federation)', 'Host-> hotstreams.ru', 'Dominio-> RU-CENTER-RU')
+
+(115, 'Malware-> Locky', 'IP(Pais)-> 195.208.1.150 ( Russian Federation)', 'Host-> akva-sarat.nichost.ru', 'Dominio-> RU-CENTER-RU')
+
+(116, 'Malware-> Cerber', '(n/a)', 'Host-> pmenboeqhyrpvomq.txszfs.top', 'Dominio-> Alpnames Limited')
+
+(117, 'Malware-> Cerber', '(n/a)', 'Host-> 52uo5k3t73ypjije.rnkj09.top', 'Dominio-> Alpnames Limited')
+
+(118, 'Malware-> Locky', 'IP(Pais)-> 95.173.189.182 ( Turkey)', 'Host-> ilkhaberadana.com', 'Dominio-> GODADDY.COM, LLC')
+
+(119, 'Malware-> Locky', 'IP(Pais)-> 204.11.56.48 ( Virgin Islands)', 'Host-> adsnight.com', 'Dominio-> GODADDY.COM, LLC')
+
+(120, 'Malware-> Locky', '(n/a)', 'Host-> ampexholdings.com', 'Dominio-> UNIVERSO ONLINE S/A (UOL)')
+
+(121, 'Malware-> Cerber', '(n/a)', 'Host-> pmenboeqhyrpvomq.xneyvm.top', 'Dominio-> Eranet International Limited')
+
+(122, 'Malware-> Cerber', '(n/a)', 'Host-> cerberhhyed5frqa.alri58.win', 'Dominio-> Eranet International Limited')
+
+(123, 'Malware-> Locky', 'IP(Pais)-> 81.88.224.155 ( Italy)', 'Host-> www.orchidealito.it', 'Dominio-> AEMCOM-REG')
+
+(124, 'Malware-> Locky', 'IP(Pais)-> 204.11.56.48 ( Virgin Islands)', 'Host-> www.minkssalon.com', 'Dominio-> WILD WEST DOMAINS, LLC')
+
+(125, 'Malware-> Locky', 'IP(Pais)-> 103.229.72.22 ( Indonesia)', 'Host-> apotekroxy.com', 'Dominio-> TUCOWS DOMAINS INC.')
+
+(126, 'Malware-> Locky', 'IP(Pais)-> 91.219.29.66 ( Ukraine)', 'Host-> 91.219.29.66', '(n/a)')
+
+(127, 'Malware-> Locky', 'IP(Pais)-> 91.230.211.103 ( Russian Federation)', 'Host-> 91.230.211.103', '(n/a)')
+
+(128, 'Malware-> TeslaCrypt', 'IP(Pais)-> 217.70.180.150 ( France)', 'Host-> hotcasinogames.org', 'Dominio-> GoDaddy.com, LLC')
+
+(129, 'Malware-> Locky', 'IP(Pais)-> 23.227.38.32 ( Canada)', 'Host-> canadattparts.com', 'Dominio-> GODADDY.COM, LLC')
+
+(130, 'Malware-> TeslaCrypt', 'IP(Pais)-> 160.153.49.102 ( United States)', 'Host-> toolaria.com', 'Dominio-> GODADDY.COM, LLC')
+
+(131, 'Malware-> CryptoWall', 'IP(Pais)-> 195.157.15.100 ( United Kingdom)', 'Host-> bolizarsospos.com', 'Dominio-> GoDaddy.com, LLC')
+
+(132, 'Malware-> Locky', 'IP(Pais)-> 78.40.108.39 ( Kazakhstan)', 'Host-> 78.40.108.39', '(n/a)')
+
+(133, 'Malware-> TeslaCrypt', '(n/a)', 'Host-> mafianeedsyouqq.com', 'Dominio-> KEY-SYSTEMS GMBH')
+
+(134, 'Malware-> TeslaCrypt', '(n/a)', 'Host-> thisisyourchangeqq.com', 'Dominio-> PAKNIC (PRIVATE) LIMITED')
+
+(135, 'Malware-> TorrentLocker', '(n/a)', 'Host-> velajsweg.com', 'Dominio-> REGISTRAR OF DOMAIN NAMES REG.RU[...]')
+
+(136, 'Malware-> Locky', 'IP(Pais)-> 91.121.97.170 ( France)', 'Host-> 91.121.97.170', '(n/a)')
+
+(137, 'Malware-> TeslaCrypt', 'IP(Pais)-> 78.110.50.137 ( Russian Federation)', 'Host-> zavidovodom.com', 'Dominio-> ENOM, INC.')
+
+(138, 'Malware-> CryptoWall', '(n/a)', 'Host-> lzclient.com', 'Dominio-> eNom, Inc.')
+
