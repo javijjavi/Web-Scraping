@@ -51,3 +51,5 @@ for tr in table_rows:
         #else:
             #print(i.text)
         j += 1
+h = h - 1
+print(h)
