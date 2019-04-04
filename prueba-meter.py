@@ -5,11 +5,12 @@ import mysql.connector
 import re
 
 q = 0
-malware = ""
-ip = ""
-host = ""
-dominio = ""
-def funcion_datos(malware, ip, host, dominio):
+
+def funcion_datos():
+    malware = ""
+    ip = ""
+    host = ""
+    dominio = ""
     url = "https://ransomwaretracker.abuse.ch/tracker/"                 
     response = requests.get(url)                                       
     soup = BeautifulSoup(response.text, "html.parser")     
@@ -48,22 +49,24 @@ def funcion_datos(malware, ip, host, dominio):
                 else:
                     print("Dominio-> "+i.text)
                     dominio=("Dominio-> "+i.text)
-            #else:
-                #print(i.text)
+            
             j += 1
+    p.write(str(malware, ip, host, dominio)+'\n')
+    p.write('\n')
     h = h - 1
     print(h)
     return malware, ip, host, dominio
+    p.close()
 
 
-
-
-malware1 = ""
-ip1 = ""
-host1 = ""
-dominio1 = ""
-
-def funcion_datos_paginas(q, malware1, ip1, host1, dominio1):
+def funcion_datos_paginas(q):
+    malware1 = ""
+    ip1 = ""
+    host1 = ""
+    dominio1 = ""
+    p = open("final.txt", "w", encoding="utf-8")
+    p.write(str(malware1, ip1, host1, dominio1)+'\n')
+    p.write('\n')
     q = str(q)
     url = "https://ransomwaretracker.abuse.ch/tracker/page/"+q+"/"                 
     response = requests.get(url)                                       
@@ -110,19 +113,21 @@ def funcion_datos_paginas(q, malware1, ip1, host1, dominio1):
     #print(h)
     q = int(q)
     print(url)
-    return q, malware1, ip1, host1, dominio1
-p = open("final.txt", "w", encoding="utf-8")
+    return q
 for q in range(138+1):
     if q == 0:
-        p.write(str(funcion_datos(malware, ip, host, dominio))+'\n')
-        p.write('\n')
+        p = open("final.txt", "w", encoding="utf-8")
         q += 1
     elif q > 0:
-        p.write(str(funcion_datos_paginas(q, malware1, ip1, host1, dominio1))+'\n')
-        p.write('\n')
+        p = open("final.txt", "w", encoding="utf-8")
         q += 1
         print(q)
     elif q == 139:
-        p.close()
         print(q)
         break
+
+
+   
+
+
+        
