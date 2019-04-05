@@ -29,6 +29,13 @@ Para realizar este proyecto en Python3 vamos necesitar dos librerias:
 ***
 - request           (Libreria para descargar el codigo HTML)
 - Beautiful Soup    (Libreira para parsear el codigo HTML)
+- mysql.connector   (Libreria que utilizaremos para conectarnos con la base de datos)
+- re                (Libreria para utilizar para poder utilizar expresiones regulares)
 
 ## DESCARGAR EL CODIGO HTML
-Para descargar el codigo HTML de una pagina web tendr
+Para descargar el codigo HTML de una pagina web tendremos que utilizar la libreria request, para esto preimero la tendremos que importar esto es bastante sencillo solo tendremos que poner el siguiente codigo `import requests`.    
+Ahora toca descargar el codigo HTML para eso utilizaremos el codigo `response = requests.get(url)`. Y ya tendremos nuestro codigo HTML descargado.
+
+## PARSEAR EL CODIGO HTML
+
+
