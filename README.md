@@ -80,3 +80,11 @@ for i in td:
 ```                      
 
 5. Con esto ya tendriamos toda la informacion que queremos.
+
+## PROCESAR LOS RESULTADOS
+Una vez extraida toda la informacion que queremos tenemos diferentes formas de procesarla, estos son solo unos ejemplos:
+- Mostrarla por la terminal.
+- Metero dentro de un documenteto de texto (.txt)
+- Meterlo dentro de una base de datos.
+- Meterlos en un ISP o crear reglas con IP-Tables.
+- Meterlos en un excel.
