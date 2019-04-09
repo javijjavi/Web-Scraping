@@ -91,7 +91,7 @@ Una vez extraida toda la informacion que queremos tenemos diferentes formas de p
 
 ## PROCESANDO LOS RESULTADO
 Ahora vamos a analizar cada uno de los archivos y cual es su función.
-- webscrapper.py La funcion de este archivo es la de recoger solo la informacion de la pagina https://ransomwaretracker.abuse.ch/tracker/ y mostrarla por pantalla, se mostrará IP, pais, malware, host y dominio.
-- webscrapper-funcion.py La funcion de este archivo es mostrar en pantalla la IP, pais, malware, host y dominio de la pagina https://ransomwaretracker.abuse.ch/tracker/ y de sus 138 paginas.
-- webscrapper-txt.py La funcion de este archivo es recoger los mismos que el archivo de arriba, pero esta vez no lo mostrará por pantalla, si no que creará un txt y los dejará alamacenados ahi.
-- webscrapper-iptables.py La funcion de este archivo es recoger solo las IP de la paginiga https://ransomwaretracker.abuse.ch/tracker/ y de sus 138 paginas extras, y volcarlo todo en un archivo en formato texto plano, con el nombre iptables.rules, a este archivo se le aplica unas reglas de iptables para denegar cualquier conexion con la IP.
+- **webscrapper.py** La funcion de este archivo es la de recoger solo la informacion de la pagina https://ransomwaretracker.abuse.ch/tracker/ y mostrarla por pantalla, se mostrará IP, pais, malware, host y dominio.
+- **webscrapper-funcion.py** La funcion de este archivo es mostrar en pantalla la IP, pais, malware, host y dominio de la pagina https://ransomwaretracker.abuse.ch/tracker/ y de sus 138 paginas.
+- **webscrapper-txt.py** La funcion de este archivo es recoger los mismos que el archivo de arriba, pero esta vez no lo mostrará por pantalla, si no que creará un txt y los dejará alamacenados ahi.
+- **webscrapper-iptables.py** La funcion de este archivo es recoger solo las IP de la paginiga https://ransomwaretracker.abuse.ch/tracker/ y de sus 138 paginas extras, y volcarlo todo en un archivo en formato texto plano, con el nombre iptables.rules, a este archivo se le aplica unas reglas de iptables para denegar cualquier conexion con la IP.
