@@ -60,7 +60,7 @@ def eleccion_datos(response):
         datos_html()    
     elif var_introducido == 2:
         time.sleep(1)
-        datos_forms()
+        datos_forms(response)
     elif var_introducido == 3:
         time.sleep(1)
         datos_media(response)
@@ -99,13 +99,223 @@ def datos_html():
     print("| BACK------------99 |")
     print("+--------------------+")
 
-def datos_forms():
+def datos_forms(response):
     print("+-------------------+")
     print("| ALL-------------1 |")
     print("| ELEMENTS--------2 |")
     print("| TYPES-----------3 |")
-    print("| BACK-----------99 |")
+    print("| BACK-----------90 |")
+    print("| EXIT-----------99 |")
     print("+-------------------+")
+    
+    insertar_opcion = int(input("Porfavor introduce un codigo: "))
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    if insertar_opcion == 1:
+        print("Has seleccionado ALL, te vamos a mostrar todos los form que hemos encontrado.")
+        time.sleep(1)
+        resultado = soup.find_all('form')
+        salida(resultado, response)
+        return resultado
+    elif insertar_opcion == 2:
+        print("Has seleccionado ELEMENTS, este es todo el codigo audio que hemos encontrado.")
+        time.sleep(1)
+        resultado1 = soup.find_all('input')
+        resultado2 = soup.find_all('select')
+        resultado3 = soup.find_all('option')
+        resultado4 = soup.find_all('textarea')
+        resultado5 = soup.find_all('button')
+        resultado = resultado1 + resultado2 + resultado3 + resultado4 + resultado5
+        salida(resultado, response)
+        return resultado
+    elif insertar_opcion == 3:
+        print("+----------------------+")
+        print("| BUTTON-------------1 |")
+        print("| CHECKBOX-----------2 |")
+        print("| COLOR--------------3 |")
+        print("| DATE---------------4 |")
+        print("| DATETIME-LOCAL-----5 |")
+        print("| EMAIL--------------6 |")
+        print("| FILE---------------7 |")
+        print("| HIDDEN-------------8 |")
+        print("| IMAGE--------------9 |")
+        print("| MONTH-------------10 |")
+        print("| NUMBER------------11 |")
+        print("| PASSWORD----------12 |")
+        print("| RADIO-------------13 |")
+        print("| RANGE-------------14 |")
+        print("| RESET-------------15 |")
+        print("| SEARCH------------16 |")
+        print("| SUBMIT------------17 |")
+        print("| TEL---------------18 |")
+        print("| TEXT--------------19 |")
+        print("| TIME--------------20 |")
+        print("| URL---------------21 |")
+        print("| WEEK--------------22 |")
+        print("| BACK--------------90 |")
+        print("| EXIT--------------99 |")
+        print("+----------------------+")
+
+        opcion_insertada = int(input("Porfavor introduzca una opcion: "))
+
+        if opcion_insertada == 1:
+            print("Has seccionado BUTTON")
+            time.sleep(1)
+            resultado = soup.find_all('input' ,type='button')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 2:
+            print("Has seccionado CHECKBOX")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='checkbox')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 3:
+            print("Has seccionado COLOR")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='color')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 4:
+            print("Has seccionado DATE")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='date')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 5:
+            print("Has seccionado DATETIME-LOCAL")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='datetime-local')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 6:
+            print("Has seccionado EMAIL")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='email')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 7:
+            print("Has seccionado FILE")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='file')
+            salida(resultado, response)
+            return resultado
+        
+        elif opcion_insertada == 8:
+            print("Has seccionado HIDDEN")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='hidden')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 9:
+            print("Has seccionado IMAGE")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='image')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 10:
+            print("Has seccionado MONTH")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='month')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 11:
+            print("Has seccionado NUMBER")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='number')
+            salida(resultado, response)
+            return resultado
+        
+        elif opcion_insertada == 12:
+            print("Has seccionado PASSWORD")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='password')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 13:
+            print("Has seccionado RADIO")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='radio')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 14:
+            print("Has seccionado RANGE")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='range')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 15:
+            print("Has seccionado RESET")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='reset')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 16:
+            print("Has seccionado SEARCH")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='search')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 17:
+            print("Has seccionado SUBMIT")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='submit')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 18:
+            print("Has seccionado TEL")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='tel')
+            salida(resultado, response)
+            return resultado
+        
+        elif opcion_insertada == 19:
+            print("Has seccionado TEXT")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='text')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 20:
+            print("Has seccionado TIME")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='time')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 21:
+            print("Has seccionado URL")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='url')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 22:
+            print("Has seccionado WEEK")
+            time.sleep(1)
+            resultado = soup.find_all('input', type='week')
+            salida(resultado, response)
+            return resultado
+        elif opcion_insertada == 90:
+            time.sleep(1)
+            eleccion_datos(response)
+        elif opcion_insertada == 99:
+            exit()
+        else:
+            time.sleep(1)
+            print("No hemos entendido el codigo que ha introducido.")
+            print("Vuelva a introducirlo porfavor.")
+            time.sleep(1)
+            datos_forms(response)
+
+    elif insertar_opcion == 90:
+        time.sleep(1)
+        eleccion_datos(response)
+    elif insertar_opcion == 99:
+        exit()
+    else:
+        time.sleep(1)
+        print("No hemos entendido el codigo que ha introducido.")
+        print("Vuelva a introducirlo porfavor.")
+        time.sleep(1)
+        datos_forms(response)
 
 def datos_media(response):
     print("+--------------------+")
